@@ -49,7 +49,7 @@ v)OKHttp documentation for asynchronous service calls: https://github.com/square
 
 7)What third­party libraries or other tools does your application use? How did you choose each library or framework you used?<br /> 
 i)Picaaso: Have heard rave reviews about its functionalities and ease of use<br />
-ii)OKHttp: I was part of a team that migrated from Apache Http Client to OKHttp. So I had good exposure to this library. Hence, it was my natural choice.<br />
+ii)OKHttp: In my current company,I was part of a team that migrated from Apache Http Client to OKHttp. So I had good exposure to this library. Hence, it was my natural choice.<br />
 
 8)How long did you spend on this exercise? If you had unlimited time to spend on this, how would you spend it and how would you prioritize each item?<br />
 I spent approximately close to 5 hrs. If I had unlimited time, I would focus on establishing a strong infrastructure for the app. At a high level, I would do the below:<br />
